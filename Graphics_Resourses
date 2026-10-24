@@ -1,0 +1,24 @@
+Here's the list of links I give everyone getting started in graphics programming in general.
+
+The main thing you need to know is https://fgiesen.wordpress.com/2016/02/05/smart/
+
+There's a lot to learn regardless of which API you use. Once you can do an animated character in a scene with lighting, shadows and basic full-screen post processing, you'll know how to proceed forward on your own from there.
+
+https://learnopengl.com/
+
+https://raytracing.github.io/
+
+https://gamemath.com/book/
+
+https://realtimerendering.com/
+
+https://google.github.io/filament/Filament.md.html
+
+https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/
+
+https://developer.nvidia.com/nsight-graphics
+
+https://renderdoc.org/
+
+
+// by: corysama on reddit
